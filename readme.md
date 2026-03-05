@@ -7,6 +7,8 @@ The project demonstrates how quantum wavefunctions can be converted into 3D prob
 
 Demo
 
+![Electron Cloud Demo](docs/orbital_demo.gif)
+
 The animation above shows a 3D rotating visualization of electron probability clouds generated from quantum chemistry calculations.
 
 Features
